@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MIS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
-![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
+![Hiruna's github stats](https://github-readme-stats.vercel.app/api?username=Hirunagrad&layout=compact&langs_count=8&theme=light)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirunagrad&layout=compact&langs_count=8&theme=light)
  <br>
