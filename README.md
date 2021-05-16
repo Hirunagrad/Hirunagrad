@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 ![Hiruna's github stats](https://github-readme-stats.vercel.app/api?username=Hirunagrad&layout=compact&langs_count=8&theme=light)<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirunagrad&layout=compact&langs_count=8&theme=light)
  <br>
+ <br>
+<img src="https://github.com/trickyj/trickyj/blob/master/logos/3.gif" height="300px" width="900px" />
