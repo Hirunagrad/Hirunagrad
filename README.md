@@ -4,9 +4,9 @@
 <img width="18%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
 
-- 👨‍💻 Full Stack MERN Developer
+- 👨‍💻 Full Stack Developer
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/hiruna_gradr) - [@hirunagrad](https://www.instagram.com/hiruna_grad) or [@hirunagrad](https://www.instagram.com/hiruna_grad)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/hiruna_grad) - [@hirunagrad](https://www.instagram.com/hiruna_grad)
 
 
 
