@@ -4,20 +4,10 @@
 <img width="18%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
 
-<!--
-**Hirunagrad/Hirunagrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Full Stack MERN Developer
+- 📚 What do I believe? Jack of all, Master of some.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/hiruna_gradr) - [@hirunagrad](https://www.instagram.com/hiruna_grad) or [@hirunagrad](https://www.instagram.com/hiruna_grad)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MIS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
