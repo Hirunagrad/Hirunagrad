@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left">![](https://komarev.com/ghpvc/?username=Hirunagrad&color=blue)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=blue" alt="Hiruna Gayashan" /> </p>
 
 
 **Languages:**  
