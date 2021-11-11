@@ -1,5 +1,9 @@
 ### Hi there Hiruna Gayashan 👋
 
+<br>
+<img width="10%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
+
 <!--
 **Hirunagrad/Hirunagrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirunagrad&color=brightgreen" alt="Harindu973" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirunagrad&color=brightblue" alt="Hirunagrad" /> </p>
 
 
 **Languages:**  
@@ -36,8 +40,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirunagrad&theme=tokyonight&layout=compact)
 
 
-<img width="10%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-<br><br>
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
