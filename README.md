@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 <img width="35%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br><br>
 
-
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/hiruna-gayashan-9387241a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiruna%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/hiruna_grad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hiruna.vo-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:hirunagrad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hirunagrad@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
  <br>
  <br>
 
