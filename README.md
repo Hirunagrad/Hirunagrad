@@ -1,7 +1,7 @@
 ### Hi there Hiruna Gayashan 👋
 
 <br>
-<img width="10%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="18%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
 
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirunagrad&color=brightblue" alt="Hirunagrad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirunagrad&color="blue" alt="Hirunagrad" /> </p>
 
 
 **Languages:**  
