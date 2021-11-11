@@ -33,8 +33,8 @@
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/hiruna-gayashan-9387241a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiruna%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/hiruna_grad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hiruna.vo-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/hiruna-gayashan-9387241a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiruna%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/hiruna_grad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hiruna-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:hirunagrad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hirunagrad@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
  <br>
